@@ -1,6 +1,6 @@
 {
     "name": "u型光电传感器实验",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "description": "",
     "dependencies": {
         "core": "*",
